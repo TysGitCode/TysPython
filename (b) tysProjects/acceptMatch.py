@@ -36,6 +36,6 @@ while __name__ == '__main__':
 
     # This says to click the button if it is the right color
     if pyautogui.pixel(897, 753)[0] == 30:
-        time.sleep(9)
+        time.sleep(5)
         # This calls the click method
         click(955, 764)
