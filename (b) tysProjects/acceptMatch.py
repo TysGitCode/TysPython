@@ -23,7 +23,7 @@ def get_position(image: str):
 
 
 # While the picture is the same as the league menu screen
-while __name__ == '__main__':
+if __name__ == '__main__':
     get_position('leagueScreen.png')
 
     # This is the method to click the button
