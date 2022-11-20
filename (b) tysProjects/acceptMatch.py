@@ -23,7 +23,8 @@ def get_position(image: str):
 
 
 # While the picture is the same as the league menu screen
-if __name__ == '__main__':
+while __name__ == '__main__':
+    time.sleep(5)
     get_position('leagueScreen.png')
 
     # This is the method to click the button
@@ -35,6 +36,6 @@ if __name__ == '__main__':
 
     # This says to click the button if it is the right color
     if pyautogui.pixel(897, 753)[0] == 30:
-
+        time.sleep(9)
         # This calls the click method
         click(955, 764)
