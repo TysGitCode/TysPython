@@ -17,5 +17,5 @@ while 1 == 1:
 
     click(955, 764)
     time.sleep(5)
-    click(975, 764)
+    click(1200, 764)
     time.sleep(5)
