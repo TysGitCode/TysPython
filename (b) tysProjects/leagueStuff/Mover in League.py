@@ -15,7 +15,7 @@ while 1 == 1:
         time.sleep(0.01)
         win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
 
-    click(955, 764)
+    click(800, 764)
     time.sleep(5)
-    click(1200, 764)
+    click(1400, 764)
     time.sleep(5)
