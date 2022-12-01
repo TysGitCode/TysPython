@@ -7,3 +7,7 @@
 # ALT and Highlight to highlight only in that row or column
 
 # CTRL / to comment a line
+
+# Location of projects C:\Users\xsnot\git\TysPython
+
+# Location of python and venv C:\Users\xsnot\AppData\Local\Programs\Python\Python310\
